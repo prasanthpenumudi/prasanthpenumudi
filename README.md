@@ -14,10 +14,9 @@
 - Git & GitHub
 
 ## 📌 Projects
-- NoteNest – MERN Stack Notes App
-- Django Database to Excel Converter
+- My projects are Here in my repositories
 
 ## 📫 Contact Me
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your@email.com
+- LinkedIn: www.linkedin.com/in/penumudiprasanth
+- Email: prasanthpenumudi239@gmail.com
 
